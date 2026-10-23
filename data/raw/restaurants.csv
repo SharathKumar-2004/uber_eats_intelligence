@@ -1,0 +1,51 @@
+restaurant_id,city,cuisine,restaurant_rating,average_prep_time_minutes,price_level
+R001,Mumbai,Desserts,5.0,37,Premium
+R002,Pune,Desserts,4.3,10,Moderate
+R003,Delhi,Healthy,4.2,17,Premium
+R004,Delhi,Biryani,3.2,32,Moderate
+R005,Mumbai,Healthy,4.7,32,Premium
+R006,Hyderabad,Chinese,3.7,40,Budget
+R007,Mumbai,Chinese,3.2,12,Budget
+R008,Mumbai,Fast Food,2.8,13,Moderate
+R009,Bengaluru,Fast Food,4.0,35,Moderate
+R010,Pune,Biryani,4.0,34,Moderate
+R011,Delhi,Fast Food,4.4,24,Premium
+R012,Hyderabad,Chinese,4.8,15,Moderate
+R013,Delhi,Desserts,3.0,24,Budget
+R014,Delhi,Healthy,4.4,40,Premium
+R015,Pune,Italian,3.2,30,Moderate
+R016,Delhi,South Indian,4.7,12,Premium
+R017,Delhi,Italian,4.6,34,Premium
+R018,Mumbai,Italian,4.0,30,Moderate
+R019,Pune,Chinese,4.4,30,Premium
+R020,Bengaluru,Italian,3.5,23,Budget
+R021,Hyderabad,Healthy,3.8,29,Budget
+R022,Delhi,Biryani,4.6,23,Premium
+R023,Hyderabad,Indian,3.8,13,Moderate
+R024,Bengaluru,Fast Food,3.6,21,Premium
+R025,Hyderabad,Indian,3.9,26,Budget
+R026,Bengaluru,Desserts,4.6,16,Premium
+R027,Mumbai,Healthy,3.5,18,Premium
+R028,Delhi,Healthy,3.2,12,Budget
+R029,Bengaluru,South Indian,4.4,37,Premium
+R030,Hyderabad,Healthy,4.6,22,Premium
+R031,Delhi,Fast Food,3.0,24,Moderate
+R032,Mumbai,Healthy,3.3,27,Moderate
+R033,Delhi,Italian,3.1,28,Budget
+R034,Bengaluru,South Indian,3.6,10,Budget
+R035,Mumbai,Fast Food,3.8,15,Budget
+R036,Hyderabad,Biryani,4.4,36,Moderate
+R037,Mumbai,Biryani,4.2,36,Budget
+R038,Mumbai,Biryani,4.2,32,Budget
+R039,Pune,Biryani,3.6,36,Budget
+R040,Mumbai,Italian,4.7,36,Moderate
+R041,Mumbai,Healthy,3.8,11,Premium
+R042,Delhi,Indian,5.0,33,Budget
+R043,Hyderabad,Fast Food,4.2,23,Premium
+R044,Delhi,Italian,3.1,15,Budget
+R045,Delhi,Biryani,4.3,23,Premium
+R046,Bengaluru,Desserts,3.5,13,Moderate
+R047,Delhi,Healthy,4.3,30,Moderate
+R048,Pune,Indian,3.0,17,Budget
+R049,Pune,Desserts,3.2,39,Premium
+R050,Bengaluru,South Indian,4.7,12,Moderate
