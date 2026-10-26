@@ -1,0 +1,4 @@
+kmeans_cluster,n_restaurants,total_orders,revenue,average_rating,average_prep_time,cancellation_rate,average_delivery_time,most_common_cuisine
+0,20,105.75,76314.39,4.16,33.7,0.09,68.4,Biryani
+1,11,86.73,61231.52,4.16,24.27,0.07,58.7,Biryani
+2,19,101.63,72394.79,3.59,15.58,0.09,50.98,Desserts

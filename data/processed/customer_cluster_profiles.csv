@@ -1,0 +1,5 @@
+kmeans_cluster,n_customers,total_orders,average_order_value,total_spending,ordering_frequency,average_rating_given,weekend_orders,late_night_orders,weekend_share,late_night_share
+0,156,11.98,779.62,9385.05,2.31,4.08,3.47,3.38,0.29,0.28
+1,119,7.6,886.95,6654.26,1.73,3.26,2.99,1.81,0.4,0.23
+2,113,7.04,852.54,6043.96,1.72,4.21,0.93,1.6,0.13,0.23
+3,112,7.52,754.95,5682.52,1.79,4.22,2.51,3.55,0.33,0.48
