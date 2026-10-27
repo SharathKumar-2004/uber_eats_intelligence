@@ -1,0 +1,4 @@
+method,accuracy,precision_macro,recall_macro,f1_macro
+Naive Bayes,1.0,1.0,1.0,1.0
+Linear SVM,1.0,1.0,1.0,1.0
+VADER,0.7379032258064516,0.5375042453380882,0.5130309319642434,0.5195248598474405
