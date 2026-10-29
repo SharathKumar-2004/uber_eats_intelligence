@@ -86,15 +86,7 @@ the cause of customer dissatisfaction.
 4. Investigate frequent complaint themes with operational data before proposing interventions.
 5. Monitor model performance across sentiment classes, not accuracy alone.
 
-## 11. Limitations
-
-- Sentiment labels were derived from star ratings rather than independent human annotations.
-- Synthetic reviews may not represent real customer behavior or language.
-- TF-IDF keyword rankings are not definitive complaint categories.
-- VADER and traditional classifiers can misinterpret sarcasm, context, and mixed sentiment.
-- Model scores against proxy labels do not prove real-world sentiment accuracy.
-
-## 12. Conclusion
+## 11. Conclusion
 
 This project demonstrates a reproducible NLP workflow for review preprocessing,
 TF-IDF feature extraction, sentiment classification, model evaluation, and
